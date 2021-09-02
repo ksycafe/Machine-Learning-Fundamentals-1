@@ -33,4 +33,6 @@
 * 밑바닥부터 시작하는 딥러닝 - 사이트 고키 지음. 개앞맵시 옮김 - 한빛미디어
 * 파이썬 라이브러리를 활용한 머신러닝 - 안드레아스 뮐러, 세라 가이도 지음. 박해선 옮김 - 한빛미디어
 * 응용이 보이는 선형대수학 + 파이썬 - 이건명 지음 - 한빛미디어
+* Deep Learning (https://www.deeplearningbook.org/)
+* Neural Networks and Deep Learning(http://neuralnetworksanddeeplearning.com/)
 * 기타...
